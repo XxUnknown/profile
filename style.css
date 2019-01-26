@@ -1,0 +1,11 @@
+body{
+	text-align: center;
+	font-family: 'Proxima-Nova-Bold', Proxima Nova;
+
+}
+
+nav ul li{
+	display: inline;
+	padding: 20px;
+
+}
